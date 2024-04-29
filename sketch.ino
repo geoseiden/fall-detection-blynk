@@ -8,6 +8,7 @@
 #define BLYNK_AUTH_TOKEN "{Your Blynk Token}"
 
 #define BLYNK_PRINT Serial
+
 char auth[] = BLYNK_AUTH_TOKEN; // Your Blynk authentication token
 char ssid[] = ""; // Your Wi-Fi SSID
 char pass[] = ""; // Your Wi-Fi password
